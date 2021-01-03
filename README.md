@@ -19,7 +19,7 @@ $ npm install -g wdfs
 $ wdfs COMMAND
 running command...
 $ wdfs (-v|--version|version)
-wdfs/0.0.0 linux-x64 node-v12.18.2
+wdfs/0.0.1 linux-x64 node-v12.18.2
 $ wdfs --help [COMMAND]
 USAGE
   $ wdfs COMMAND
